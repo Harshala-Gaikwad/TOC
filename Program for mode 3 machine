@@ -1,0 +1,6 @@
+S = input() 
+N = S.count("0") 
+if N%3==0:
+   print("accepted ") 
+else:
+   print(" Rejected ") 
